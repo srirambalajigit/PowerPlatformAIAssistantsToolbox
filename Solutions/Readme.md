@@ -1,6 +1,6 @@
 Contains Solutions for PowerPlatformAIAssistants
 
-#Setup Instructions
+**Setup Instructions**
 1. Import the solution PowerPlatformAssistantsToolbox_1_0_0_1_managed.zip
 2. In PowerApps, click on Tables menu in left navigation.
 3. Click Import->Import Data from Excel and upload the sricp_assistants.csv
