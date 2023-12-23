@@ -5,6 +5,7 @@ Currently it has 18 tools.
 You can check out the Readme in Solutions folder for setup instructions for this toolbox.
 
 Here is a list of 18 tools:
+
 PowerFX Formula Assistant
 
 PowerFX Explainer
