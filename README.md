@@ -1,2 +1,3 @@
 # PowerPlatformAIAssistantsToolbox
-This repo contains solutions for AI Assistants created using PowerApps, GPT Prompts, AI Builder and Copilot Studio.
+This repo contains toolbox AI Assistant tools based on GPT Prompts to assist Power Platform developers and testers.
+It was created using PowerApps, GPT Prompts, AI Builder and Copilot Studio. This toolbox was inspired by XrmToolbox.
