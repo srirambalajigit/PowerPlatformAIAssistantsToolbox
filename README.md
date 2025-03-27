@@ -1,10 +1,9 @@
 # PowerPlatformAIAssistantsToolbox
 This repo contains a toolbox of  GPT Assistant tools based on GPT Prompts to assist Power Platform developers and testers.
 It was created using PowerApps, GPT Prompts, AI Builder and Copilot Studio. This toolbox was inspired by XrmToolbox.
-Currently it has 18 tools.
 Check out the [releases](https://github.com/srirambalajigit/PowerPlatformAIAssistantsToolbox/releases). folder for latest release of this toolbox and instructions of how to setup this toolbox.
 
-Here is a list of 18 tools:
+Here is a list of tools:
 
 PowerFX Formula Assistant
 
@@ -39,4 +38,8 @@ PowerApps and Dynamics 365 Client Script Assistant
 Dynamics 365 Plugins and Workflows Assistant
 
 Dataverse REST Builder Assistant
+
+User Story Assistant
+
+REST API Automation Assistant
 
