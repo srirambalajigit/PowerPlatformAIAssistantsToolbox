@@ -16,8 +16,6 @@ Dataverse Data Model Assistant
 
 Test Case Assistant
 
-REST API Automation Assistant
-
 EasyRepro Automation Assistant
 
 FakeXrmEasy  Automation Assistant
